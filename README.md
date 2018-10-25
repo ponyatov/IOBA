@@ -3,9 +3,9 @@
 
 (c) Dmitry Ponyatov <<dponyatov@gmail.com>> , All rights reserved
 
-github: https://github.com/ponyatov/IOBA
+github: https://github.com/ponyatov/IoBA
 
-manual: https://ponyatov.github.io/IoBA/
+manual: https://ponyatov.github.io/IoBA
 
 Bytecode Interpreter Architecture
 specially targeted for IoT and microcontroller applications:
