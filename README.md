@@ -5,6 +5,8 @@
 
 github: https://github.com/ponyatov/IOBA
 
+manual: https://ponyatov.github.io/IoBA/
+
 Bytecode Interpreter Architecture
 specially targeted for IoT and microcontroller applications:
 
